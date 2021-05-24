@@ -1,6 +1,6 @@
-# Hi there 👋
+## Hi there 👋
 
-Osman Duru
+#Osman Duru
 ## My GitHub Stats
 
 ![Just for showoff(GitHub stats)](https://github-readme-stats.vercel.app/api?username=osmanduru1&show_icons=true&theme=nightowl&count_private=true&hide_rank=false)
